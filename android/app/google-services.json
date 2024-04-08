@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921230168488",
+    "project_id": "drink-duel-extreme",
+    "storage_bucket": "drink-duel-extreme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921230168488:android:8122a1910d675ff9660d9d",
+        "android_client_info": {
+          "package_name": "com.example.drink_duels_extreme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA45yo7fDpISMC4Cvsawo9XijUmNF8C2vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
